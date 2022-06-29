@@ -1,7 +1,12 @@
 Hi 👋 My name is Laurenz Rudolph
 ### Front End Developer
 
-i´ve been learning code for about 6 years now. I started within my vocational college for business informatics and was able to develop my skills during my apprenticeship as an IT-systems merchant. After a long trip to South America, I decided to absolve the neueFische bootcamp to become a frontend developer.* 🌍  I'm based in Stuttgart* ✉️  You can contact me at [Laurenz.Rudolph@t-online.de](mailto:Laurenz.Rudolph@t-online.de)* 🚀  I'm currently working on [my capstone project at neueFische](http://capstone-project-ten-mauve.vercel.app/)* 🧠  I'm learning new things everyday 💡* ⚡  I am a huge fan of outdoor and action sports! 🏄🏼‍♂️
+i´ve been learning code for about 6 years now. I started within my vocational school for business informatics and was able to develop my skills during my apprenticeship as an IT-systems merchant. After a long trip to South America, I decided to absolve the neueFische bootcamp to become a frontend developer.
+* 🌍  I'm based in Stuttgart
+* ✉️  You can contact me at [Laurenz.Rudolph@t-online.de](mailto:Laurenz.Rudolph@t-online.de)
+* 🚀  I'm currently working on [my capstone project at neueFische](http://capstone-project-ten-mauve.vercel.app/)
+* 🧠  I'm learning new things everyday 💡
+* ⚡  I am a huge fan of outdoor and action sports! 🏄🏼‍♂️
 
 ### Skills
 
