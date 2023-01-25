@@ -5,7 +5,7 @@ i´ve been learning to code for about 6 years now. I started within my vocationa
 
 * 🌍  I'm based in Stuttgart
 * ✉️  You can contact me at [Laurenz.Rudolph@t-online.de](mailto:Laurenz.Rudolph@t-online.de)
-* 🚀  I'm currently working on [my capstone project at neueFische](http://sorrywhat.vercel.app/)
+* 🚀  I'm currently working as Web Development Consultant
 * ⚡  I am a fan of outdoor and action sports 🏄🏼‍♂️
 
 ### Skills
