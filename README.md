@@ -8,7 +8,7 @@ I help businesses integrate AI into their web applications – pragmatically and
 * 🌍  Based in Stuttgart, working remotely across DACH region
 * 🚀  Available for freelance projects from Q2/2026
 * 🤖  Currently training as AI Engineer
-* 💡  Background: Full-Stack Dev + Product Management
+* 💡  Background: Full-Stack Dev + Scrum Master
 * 🛠️  Tech: React • TypeScript • Node.js • PostgreSQL • OpenAI/Claude API
 * ⚡  Outdoor & action sports enthusiast 🏄🏼‍♂️
 
