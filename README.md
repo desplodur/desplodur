@@ -1,12 +1,33 @@
-Hi 👋 My name is Laurenz Rudolph
-### Web Developer
+# Hi 👋 My name is Laurenz Rudolph
 
-i´ve been learning to code for about 6 years now. I started within my vocational school for business informatics and was able to develop my skills during my apprenticeship as an IT-systems merchant. After a long trip to South America, I decided to absolve the neueFische bootcamp to become a frontend developer.
+### Full-Stack Developer + KI-Integration
 
-* 🌍  I'm based in Stuttgart
-* ✉️  You can contact me at [Laurenz.Rudolph@t-online.de](mailto:Laurenz.Rudolph@t-online.de)
-* 🚀  I'm currently working as Full-Stack Developer for the Kistler Group
-* ⚡  I am a fan of outdoor and action sports 🏄🏼‍♂️
+I help businesses integrate AI into their web applications – pragmatically and production-ready. With years of full-stack experience and fresh AI expertise, I bridge the gap between traditional development and modern AI capabilities.
+
+* 🌍  Based in Stuttgart, working remotely across DACH region
+* 🚀  Available for freelance projects from Q2/2026
+* 🤖  Currently training as AI Engineer
+* 💡  Background: Full-Stack Dev + Product Management
+* 🛠️  Tech: React • TypeScript • Node.js • PostgreSQL • OpenAI/Claude API
+* ⚡  Outdoor & action sports enthusiast 🏄🏼‍♂️
+
+---
+
+### What I Do
+
+I build AI features that actually work in production:
+- Intelligent chatbots & assistants
+- Semantic search & recommendations
+- Content automation
+- Custom AI integrations for existing apps
+
+**My edge:** Years of building real web applications + understanding what businesses actually need, not just what's technically possible.
+
+---
+
+### Connect
+
+[LinkedIn](your-linkedin-url) • [Twitter](your-twitter-url) • [Email](mailto:Laurenz.Rudolph@t-online.de)
 
 ### Skills
 
